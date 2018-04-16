@@ -14,7 +14,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class App {
 
+<<<<<<< HEAD
 	public static void   main(String[] args) {
+=======
+	public static void   ma in(String[] arg s) {
+>>>>>>> refs/remotes/origin/master
 		WebDriver driver = new FirefoxDriver();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get("http://seltr-kbp1-1.synapse.com:8080");

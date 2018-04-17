@@ -15,7 +15,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class App {
 
 
+
 	public static void   main(String[] args) {
+
 
 		WebDriver driver = new FirefoxDriver();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);

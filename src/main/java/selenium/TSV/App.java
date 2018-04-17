@@ -26,6 +26,6 @@ public class App {
 		driver.findElement(By.id("yui-gen1-button")).click();
 		driver.quit();
 
-		//hkbjidreghrueshgorues
+		//hkbjidh,yureghrueshgorues
 	}
 }
